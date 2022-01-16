@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d6a0f19c-faba-4dbe-92bf-ad11c62b52b9": {
+      "ProjectGuid": "d6a0f19c-faba-4dbe-92bf-ad11c62b52b9",
+      "DisplayName": "KafkaLightstreamer",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c998207c-edf8-4305-85a1-43c326d1a10f": {
+      "ProjectGuid": "c998207c-edf8-4305-85a1-43c326d1a10f",
+      "DisplayName": "LSkafkaConsole",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
