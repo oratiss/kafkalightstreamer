@@ -77,7 +77,7 @@ namespace KafkaLightstreamer.LSAdapters
                     IDictionary eventData = new Hashtable();
                     eventData["message"] = message;
                     eventData["timestamp"] = DateTime.Now.ToString("s");
-                    //_listener.Update(ItemName, eventData, false);
+                    _listener.Update(ItemName, eventData, false);
                     counter++;
                     Console.WriteLine($@"
                                  count: {counter}

@@ -2,12 +2,12 @@
 {
     public class KafkaDataAdapterConfigurations
     {
-        //public const string TopicName = "rlcmsg";
-        public const string TopicName = "pakan";
+        public const string TopicName = "rlcmsg";
+        //public const string TopicName = "pakan";
 
         public const string BootstrapServers = "kafka:49094";
 
-        public const int PartitionNumber = 1;
+        public const int PartitionNumber = 9;
 
         public const string ItemName = "greetings";
 
